@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/companyWebsite/static/js/main.db5f7f0c.chunk.js",
-    "main.js.map": "/companyWebsite/static/js/main.db5f7f0c.chunk.js.map",
-    "runtime-main.js": "/companyWebsite/static/js/runtime-main.6ddfc39d.js",
-    "runtime-main.js.map": "/companyWebsite/static/js/runtime-main.6ddfc39d.js.map",
-    "static/js/2.78148dcc.chunk.js": "/companyWebsite/static/js/2.78148dcc.chunk.js",
-    "static/js/2.78148dcc.chunk.js.map": "/companyWebsite/static/js/2.78148dcc.chunk.js.map",
-    "index.html": "/companyWebsite/index.html",
-    "service-worker.js": "/companyWebsite/service-worker.js",
-    "service-worker.js.map": "/companyWebsite/service-worker.js.map",
-    "static/js/2.78148dcc.chunk.js.LICENSE.txt": "/companyWebsite/static/js/2.78148dcc.chunk.js.LICENSE.txt"
+    "main.js": "/websiteCompany/static/js/main.db5f7f0c.chunk.js",
+    "main.js.map": "/websiteCompany/static/js/main.db5f7f0c.chunk.js.map",
+    "runtime-main.js": "/websiteCompany/static/js/runtime-main.aad740c8.js",
+    "runtime-main.js.map": "/websiteCompany/static/js/runtime-main.aad740c8.js.map",
+    "static/js/2.78148dcc.chunk.js": "/websiteCompany/static/js/2.78148dcc.chunk.js",
+    "static/js/2.78148dcc.chunk.js.map": "/websiteCompany/static/js/2.78148dcc.chunk.js.map",
+    "index.html": "/websiteCompany/index.html",
+    "service-worker.js": "/websiteCompany/service-worker.js",
+    "service-worker.js.map": "/websiteCompany/service-worker.js.map",
+    "static/js/2.78148dcc.chunk.js.LICENSE.txt": "/websiteCompany/static/js/2.78148dcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ddfc39d.js",
+    "static/js/runtime-main.aad740c8.js",
     "static/js/2.78148dcc.chunk.js",
     "static/js/main.db5f7f0c.chunk.js"
   ]
