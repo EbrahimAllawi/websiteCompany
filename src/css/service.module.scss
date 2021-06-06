@@ -1,0 +1,62 @@
+@import './vars.scss';
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 100% !important;
+    }
+    .service {
+        grid-template-rows: 1fr auto;
+
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .nameService {
+        width: 70%;
+    }
+    .service {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
+
+.nameService {
+    text-align: center;
+    margin: 7px auto;
+    background-color: $second;
+    color: white;
+    font-size: 18px;
+}
+.firstLetter {
+    text-transform: capitalize;
+    color: #0478ec;
+    font-size: 22px;
+}
+
+.service {
+    display: grid;
+    margin-bottom: 30px;
+    grid-gap: 10px;
+    justify-items: center;
+}
+.service .describe {
+
+}
+.service .imgService {
+    width: 100%;
+}
